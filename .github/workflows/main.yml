@@ -17,7 +17,7 @@ jobs:
           config_timezone: Europe/Berlin
           
           plugin_languages: yes
-          plugin_languages_ignored: TeX, ShaderLab
+          plugin_languages_ignored: TeX, ShaderLab, CMake
           
           plugin_lines: yes
           
